@@ -1,6 +1,7 @@
 # OpenSource-TermProject
 
-## Key points
+Detect Face by blurred status
+
 -------
 ### 1. Problem understanding
 1)	Find image named family
