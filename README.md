@@ -28,8 +28,8 @@
     
 ---------
 ### 4.	Limitation
-It can’t detect face by using cascade when face is hided  
----------
+- It can’t detect face by using cascade when face is hided  
+----------
 ### 5.	Reference 
 -	<https://blog.naver.com/playonu/222702485973>
 -	<https://github.com/opencv/opencv/tree/master/data/haarcascades>
